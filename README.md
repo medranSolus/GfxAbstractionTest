@@ -51,4 +51,4 @@ access time on cost of little more space occupied per object. Another pro might 
 avoids trashing CPU instruction pipeline with accessing virtual methods via traversing vtable for each of them.
 
 ---
-Copyright (c) 2021 Marek Machliñski
+Copyright (c) 2021 Marek Machliński
